@@ -6,6 +6,6 @@
 
 Участник 4 - Grok 4.2 Heavy
 
-Участник 5 - Gemini 3.1 Deep Think
+Участник 5 - Gemini 3.1 Pro
 
-Участник 6 - Gemini 3.1 Pro Studio
+Участник 6 - Gemini 3 Pro Studio
