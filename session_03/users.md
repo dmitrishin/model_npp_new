@@ -8,4 +8,4 @@
 
 Участник 5 - Gemini 3.1 Pro Deep Think
 
-Участник 6 - DeepSeek
+Участник 6 - Gemini 3.1 Pro Studio
